@@ -113,13 +113,13 @@
         right: 20%;
     }
     25% {
-        right: 40%;
+        right: 45%;
     }
     50% {
         right: 70%;
     }
     75% {
-        right: 40%;
+        right: 45%;
     }
     100% {
         right: 20%;
@@ -145,14 +145,14 @@
     }
     45% {
         left: calc(100% - 30px);
-        top: 100%;
+        top: 85%;
     }
     75% {
-        left: 0;
-        top: 100%;
+        left: -20px;
+        top: 85%;
     }
     90% {
-        left: -15px;
+        left: -20px;
         top: -10px;
     }
     100% {
@@ -167,19 +167,19 @@
         right: 20%;
     }
     30% {
-        right: calc(100% - 30px);
+        right: calc(100% - 20px);
         bottom: -10px;
     }
     45% {
-        right: calc(100% - 30px);
-        bottom: 100%;
+        right: calc(100% - 20px);
+        bottom: 90%;
     }
     75% {
-        right: 0;
-        bottom: 100%;
+        right: -20px;
+        bottom: 90%;
     }
     90% {
-        right: -15px;
+        right: -20px;
         bottom: -10px;
     }
     100% {
